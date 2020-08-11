@@ -9,3 +9,6 @@
 
 [Link to Day Planner Project](https://danielgerrald.github.io/Day_Planner/) <br>
 [Link to a preview on how the Day Planner works](https://drive.google.com/file/d/1gxC4j0owCMl6GY9CFRbKJ5NYLg4GWL54/view)
+
+![Day Planner](/images/dayPlanner.png)
+Format: ![Alt Text](url)
