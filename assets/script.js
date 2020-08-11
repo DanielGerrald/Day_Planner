@@ -1,6 +1,4 @@
-var task = $("input")
 $("#currentDay").text(moment().format("dddd, MMMM Do YYYY"));
-//console.log(task)
 getTasks()
 
 for(var i = 0; i < 9; i++) {
