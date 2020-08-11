@@ -11,4 +11,4 @@
 [Link to a preview on how the Day Planner works](https://drive.google.com/file/d/1gxC4j0owCMl6GY9CFRbKJ5NYLg4GWL54/view)
 
 ![Day Planner](assets/images/dayPlanner.png)
-Format: ![Alt Text](url)
+
